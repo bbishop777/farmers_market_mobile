@@ -1,7 +1,0 @@
-{
-  "name": "farmers-market-mobile",
-  "app_id": "",
-  "watchPatterns": [
-    "www/js/*",
-    "!www/css/**/*"]
-}
