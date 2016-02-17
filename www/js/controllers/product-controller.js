@@ -44,7 +44,4 @@ angular.module('myApp')
       $location.url('/events');
     });
   };
-
-
-
 }]);
